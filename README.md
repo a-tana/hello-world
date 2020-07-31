@@ -1,4 +1,4 @@
 # hello-world
 first try
 
-my name is atana, a poor man.
+my name is atana.
